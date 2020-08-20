@@ -1,0 +1,7 @@
+export const LOGOUT = 'LOGOUT'
+export const LOGIN_FAILED = 'LOGIN_FAILED'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const GET_URL_SUCCESS = 'GET_URL_SUCCESS'
+export const GET_URL_FAILED = 'GET_URL_FAILED'
+export const SET_MODEL_ATTR = 'SET_MODEL_ATTR'
+export const GET_BOOTH = 'GET_BOOTH'
